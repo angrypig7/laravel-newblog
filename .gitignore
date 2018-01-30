@@ -1,0 +1,12 @@
+/angryblog/node_modules
+/angryblog/public/hot
+/angryblog/public/storage
+/angryblog/storage/*.key
+/angryblog/vendor
+/angryblog/.idea
+/angryblog/.vagrant
+/angryblogHomestead.json
+/angryblogHomestead.yaml
+/angryblognpm-debug.log
+/angryblogyarn-error.log
+/angryblog.env
