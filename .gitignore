@@ -5,8 +5,8 @@ angryblog/storage/*.key
 angryblog/vendor
 angryblog/.idea
 angryblog/.vagrant
-angryblogHomestead.json
-angryblogHomestead.yaml
-angryblognpm-debug.log
-angryblogyarn-error.log
-angryblog.env
+angryblog/Homestead.json
+angryblog/Homestead.yaml
+angryblog/npm-debug.log
+angryblog/yarn-error.log
+angryblog/.env
